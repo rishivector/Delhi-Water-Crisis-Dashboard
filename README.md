@@ -1,4 +1,5 @@
 # Analysis of Delhi's Water Bodies: A Data-Driven Look into an Urban Ecological Crisis
+![Dashboard Screenshot](https://github.com/user-attachments/assets/8422ed81-58a4-4188-9305-9b3db0696c2f)
 
 ## 📖 Project Overview
 
