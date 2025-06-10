@@ -1,8 +1,5 @@
 # Analysis of Delhi's Water Bodies: A Data-Driven Look into an Urban Ecological Crisis
 
- 
-*(**Note**: Replace this with a link to your actual dashboard image uploaded to the repository or an image hosting service)*
-
 ## 📖 Project Overview
 
 This project presents a comprehensive analysis of the state of 893 water bodies within the National Capital Territory (NCT) of Delhi. Leveraging data from **India's first-ever Water Body Census**, this analysis aims to uncover the health, status, and threats facing these critical urban ecosystems.
