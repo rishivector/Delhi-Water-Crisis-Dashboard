@@ -57,7 +57,7 @@ The analysis revealed several critical findings:
 
 1.  **Explore the Data:** The raw data is available in the `/data` folder (`WBC_DL_0.csv`).
 2.  **Review the Cleaning Process:** The SQL cleaning script is available at `scripts/data_cleaning.sql`. *(Adjust this path as needed)*.
-3.  **View the Final Dashboard:** The main findings are best explored through the [interactive dashboard](link-to-your-dashboard).
+3.  **View the Final Dashboard:** The main findings are best explored through the [interactive dashboard](https://public.tableau.com/views/Dashbooard_17495787840700/FinalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 4.  **Check the Analysis:** The workbook file (`.twbx` for Tableau or `.pbix` for Power BI) is located in the `/dashboard` folder.
 
 ## 💡 Future Work & Potential Enhancements
